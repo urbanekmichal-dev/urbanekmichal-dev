@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning to create web application based on Java, Spring Boot, Angular and AWS
 
-- 💞️ Actually I work as Java Developer in SAP Lab Poland, Gliwice
+- 💞️ I work as Java Developer at SAP Lab Poland, Gliwice
 
 - 📫 You can find my on LinkedIn and on my e-mail address: urbanekmichal.98@gmail.com
 
