@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 Currently, I am developing my skills in technologies such as Java, Spring Boot, and AWS
 
-- 📫 You can find more information on my website or by emailing me at urbanekmichal.98@gmail.com
+- 📫 You can find more information on my website [website](https://urbanekmichal-dev.github.io/web/)  or by emailing me at urbanekmichal.98@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
